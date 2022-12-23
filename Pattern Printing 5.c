@@ -1,7 +1,6 @@
 //Pattern printing
 
 #include <stdio.h>
-//Pattern printing
 
 int main() 
 {
